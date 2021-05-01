@@ -1,0 +1,8 @@
+DKI JAKARTA
+ -------------------
+ Operator : iswanto
+ NIM : 181011400152
+ Positif : 406205
+ Dirawat: 3322
+ Sembuh: 393205
+ Meninggal: 6675
